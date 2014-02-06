@@ -1,6 +1,6 @@
 def square(a):
-    answer =  a*
+    answer =  a*a
     return (answer)
 
-print (square(4,12))
+print (square(12))
 #what you want to square
