@@ -1,5 +1,5 @@
 def square(a):
-    answer =  a*a
+    answer =  a*
     return (answer)
 
 print (square(4,12))
